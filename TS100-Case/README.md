@@ -8,8 +8,6 @@ I modified the top of the box in order to allow the storage of two additional ti
 
 [Thingiverse Page](https://www.thingiverse.com/thing:2543551)
 
- ---
- 
 ## Assembly
 In order to assemble the box, you would need:
 
@@ -19,6 +17,6 @@ In order to assemble the box, you would need:
   * 2x M3x20 bolts for the hinges
   
 ## Photos
-![Box Open](https://github.com/pokeimon/3D-Models/tree/master/TS100-Case/img/box_open.jpg)
+![Box Open](https://github.com/pokeimon/3D-Models/raw/master/TS100-Case/img/box_open.jpg)
 
-![Box Open](https://github.com/pokeimon/3D-Models/tree/master/TS100-Case/img/box_closed.jpg)
+![Box Open](https://github.com/pokeimon/3D-Models/raw/master/TS100-Case/img/box_closed.jpg)
