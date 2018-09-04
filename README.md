@@ -9,3 +9,4 @@ Most of my models are also uploaded to [Thingiverse](https://www.thingiverse.com
 
 ## List of Models
   * [TS100 Case with Storage for Two Tips](https://github.com/pokeimon/3D-Models/tree/master/TS100-Case)
+  * [Prusa i3 MK3 LCD Screen Cover / Dust Cover](https://github.com/pokeimon/3D-Models/tree/master/Prusa-i3-MK3-LCD-Cover)
